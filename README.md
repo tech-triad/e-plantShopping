@@ -2,9 +2,6 @@
 
 A responsive e-commerce front end for a houseplant shop built with React 18, Redux Toolkit, and Vite. The product listing groups plants into multiple categories and supports Add to Cart (button disables while in cart and re-enables if removed). The header shows a live cart count. The cart page includes item thumbnails, unit prices, quantity increment/decrement, delete, per-item subtotals, and a grand total; a Continue Shopping button returns to the catalog and Checkout displays a “Coming Soon” notice. Deployed on GitHub Pages.
 
-## 🌿 Demo
-
-Live Website: [https://rc-15-coder.github.io/e-plantShopping/](https://rc-15-coder.github.io/e-plantShopping/)
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +38,7 @@ Live Website: [https://rc-15-coder.github.io/e-plantShopping/](https://rc-15-cod
 
 ```bash
 # Clone the repository
-git clone https://github.com/RC-15-coder/e-plantShopping.git
+git clone https://github.com/tech-triad/e-plantShopping.git
 cd e-plantShopping
 
 # Install dependencies
